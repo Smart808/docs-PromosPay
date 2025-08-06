@@ -1,26 +1,35 @@
+// src/App.tsx
 import React from 'react';
-import logo from './logo.svg';
+import { BrowserRouter as Router, Route, Routes, useLocation, Navigate } from 'react-router-dom';
+import Sidebar from './components/Sidebar';
+import Content from './components/Content';
+import Navbar from './components/Navbar';
+import AppFooter from './components/Footer';
 import './App.css';
 
-function App() {
+const App: React.FC = () => {
+  const location = useLocation();
+  const noSidebarPaths = ['/'];
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
+      <Navbar />
+      <div style={{ display: 'flex', flex: 1 }}>
+        {!noSidebarPaths.includes(location.pathname) && <Sidebar />}
+        <div style={{ flex: 1, padding: '20px', overflowY: 'auto' }}>
+          <Routes>
+            <Route path="/" element={<Navigate to="/about-promospay/mission" replace />} />
+            <Route path="/:category/:file" element={<Content />} />
+          </Routes>
+        </div>
+      </div>
+      <AppFooter />
     </div>
   );
-}
+};
 
-export default App;
+export default () => (
+  <Router>
+    <App />
+  </Router>
+);
