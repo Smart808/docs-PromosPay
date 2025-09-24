@@ -14,20 +14,20 @@ PromosPay is an innovative blockchain-powered platform that combines advanced AI
 
 - **AI-Powered Market Analysis**: Utilize SCAI, our proprietary AI model, to scan and predict trends in crypto, stocks, and RWA (Real World Assets). Get actionable forecasts, neuron metrics, and scanners for optimal trading decisions.
 - **User-Driven AI Training**: Submit your own market forecasts on Promoplace, the platform's marketplace. Accurate predictions not only earn you Crypto Miles (rewards) but also help train and improve the AI model, making it smarter over time.
-- **Trading and On-Ramp Tools**: Trade AI-recommended assets directly on the platform. Use PRPay for easy crypto on-ramp and swaps with low fees, bonuses, and seamless integration via mobile QR connects.
+- **Trading and liquid Tools**: Trade AI-recommended assets directly on the platform. Use stake and swap for easy crypto on-ramp and swaps with low fees, bonuses, and seamless integration .
 - **Earning Opportunities**: Accumulate Crypto Miles through referrals, accurate forecasts, and platform activity. Redeem them for real rewards, discounts, or staking benefits in the ecosystem.
 - **Referral System**: Invite friends with unique codes to earn bonuses and build your network, boosting collective earnings.
 
 ## How It Works
 
-PromosPay operates on a blockchain foundation to ensure transparency, security, and decentralization. Users start by onboarding with a wallet connect, then explore AI scanners for market insights. They can create and share forecasts on Promoplace, where community validation and AI learning occur. Successful contributions reward users with Crypto Miles, which can be redeemed or used for premium features. The platform's AI evolves with user input, creating a self-improving loop that benefits everyone.
+PromosPay operates on a blockchain foundation to ensure transparency, security, and decentralization. Users start by onboarding with a wallet connect, then explore AI tools for market insights. They can create and share forecasts on Promoplace, where community validation and AI learning occur. Successful contributions reward users with Crypto Miles, which can be redeemed or used for premium features. The platform's AI evolves with user input, creating a self-improving loop that benefits everyone.
 
 ## Benefits for Users
 
 - **Traders**: Gain edge with AI-driven signals, historical data, and real-time analytics to make informed decisions.
 - **Forecast Creators**: Earn from your market knowledge by training the AI and competing in prediction accuracy.
 - **Developers**: Access API for custom integrations, building on PromosPay's blockchain and AI infrastructure.
-- **Newcomers**: Easy entry with mobile QR, low barriers, and educational resources to learn trading and blockchain.
+- **Newcomers**: Easy entry, low barriers, and educational resources to learn trading and blockchain.
 
 PromosPay is more than a trading tool—it's a community-driven economy where analysis meets earnings. Join us to shape the future of AI in finance! For more details, explore our [Mission and Goals](/about-promospay/mission) or [Technical Overview](/about-promospay/technical-overview).
   `,
@@ -38,7 +38,7 @@ PromosPay leverages a robust technical architecture to deliver a seamless and se
 
 ### Blockchain Infrastructure
 - **Decentralized Ledger**: Utilizes Ethereum-based smart contracts for secure wallet connections, reward distribution (Crypto Miles), and transaction processing and trading.
-- **Interoperability**: Supports cross-chain interactions for seamless asset swaps and on-ramp functionalities via PRPay.
+- **Interoperability**: Supports cross-chain interactions for seamless asset swaps and stake.
 
 ### AI and Machine Learning
 - **SCAI Model**: This is an AI model trained on historical market data, user forecasts, and data from a variety of financial analytics platforms and on-chain data, in real time. SCAI provides predictive analytics, neural metrics, and market scanners.
@@ -70,9 +70,9 @@ To begin using PromosPay, follow these simple steps to set up your account and s
 
 ### Step 2: Explore the Platform
 - **Dashboard**: View real-time market insights, AI-driven forecasts, and trending assets.
-- **Promoplace**: Submit your own market predictions to earn Crypto Miles and train the AI.
+- **Earn**: Submit your own market predictions to earn Crypto Miles and train the AI.
 - **Trade AI**: Use AI scanners and neuron metrics to identify trading opportunities.
-- **PRPay**: Buy crypto or swap assets with low fees and exclusive bonuses.
+- **Stake**: Swap and Stake with low fees and exclusive bonuses.
 
 ### Step 3: Set Up Preferences
 - Customize your dashboard with preferred assets (stocks, crypto, RWA).
@@ -335,16 +335,16 @@ For more details, see [PRPay Fees and Bonuses](/prpay/fees-bonuses).
   'trade-ai/neurons-metrics': `
 # Neurons Metrics
 
-Neurons Metrics is a core feature of PromosPay's Trade AI section, providing visual insights into market trends through interactive bubble charts. This tool helps traders identify high-potential assets based on AI-driven analysis.
+Neural Metrics is a key tool in PromosPay's AI Trading section, providing a visual representation of market trends by optimizing large amounts of data for fast and accurate decision-making. This tool helps traders identify promising assets based on AI-powered analysis.
 
 ### How It Works
-1. **Visualization**: Assets are represented as bubbles, with size indicating market cap and color showing price change (green for gains, red for losses).
-2. **Metrics**: Displays key indicators like volume, volatility, and SCAI predictions.
-3. **Interactivity**: Click on a bubble to view detailed analytics for an asset.
+1. **Visualization**: Our AI receives asset data from multiple platforms, exchanges, and on-chain scans, and uses its own trained model to generate a concise analysis.
+2. **Metrics**: Displays key indicators such as volume, volatility, custom metrics, and SCAI forecasts.
+3. **Interactivity**: Click on the quick AI analysis in the terminal to view detailed analytics for the asset.
 
 ### Accessing Neurons Metrics
 1. Go to the **Trade AI** section on the PromosPay dashboard.
-2. Select the **Neurons Metrics** tab to view the bubble chart.
+2. Select an asset on the dashboard and click "AI Analysis" or start trading with AI.
 3. Filter by timeframe (1h, 1d, 7d, 30d) or asset type (crypto, stocks, RWA).
 
 ### Benefits
@@ -388,32 +388,32 @@ PromosPay's Trade AI section enables users to trade a wide range of assets, incl
 
 ### How to Trade
 1. Navigate to the **Trade AI** section on the PromosPay dashboard.
-2. Select an asset from the AI Scanner or Neurons Metrics.
-3. Use PRPay to execute trades with low fees and bonuses.
+2. Select an asset on the dashboard and click "AI Analysis" or start trading with AI..
+3. Use Stake to execute trades with low fees and bonuses.
 4. Monitor performance with real-time analytics.
 
 ### Benefits
 - **AI Support**: SCAI provides predictions to guide trading decisions.
-- **Low Fees**: Competitive rates via PRPay.
+- **Low Fees**: Competitive rates via Stake and Trade.
 - **Seamless Execution**: Fast and secure transactions with blockchain integration.
 
-For more details, see [How to Buy](/prpay/how-to-buy).
+For more details, see [How to Buy](/stake/how-to-buy).
   `,
-  'prpay/how-to-buy': `
-# How to Buy
+  'stake/how-to-buy': `
+# How to STAKE
 
-PRPay is PromosPay's crypto on-ramp and swap service, allowing users to purchase cryptocurrencies and swap assets with ease.
+Stake is PromosPay's crypto stake and swap service, allowing users to purchase cryptocurrencies and swap assets with ease.
 
-### Steps to Buy
-1. Go to the **PRPay** section on the PromosPay dashboard.
-2. Select **Buy Crypto** and choose your preferred asset (e.g., BTC, ETH).
+### Steps to Stake and Swap
+1. Go to the **Stake** section on the PromosPay dashboard.
+2. Select "Stake or swap" and choose the desired asset (e.g., Usdt, Usde).
 3. Connect your wallet via WalletConnect ([Connect Mobile via QR](/onboarding/connect-mobile-qr)).
-4. Enter the amount and payment method (credit card, bank transfer, or crypto swap).
+4. Enter the amount and select "Verify all details."
 5. Confirm the transaction and receive assets in your wallet.
 
 ### Supported Payment Methods
 - **Fiat**: Credit/debit cards, bank transfers.
-- **Crypto**: Swap existing tokens (e.g., ETH to BTC).
+- **Crypto**: Swap existing tokens (e.g., Usdt to prUSD).
 - **Crypto Miles**: Use Miles to reduce fees ([Redeeming Crypto Miles](/crypto-miles/redeeming)).
 
 ### Benefits
@@ -423,7 +423,7 @@ PRPay is PromosPay's crypto on-ramp and swap service, allowing users to purchase
 
 For more details, see [Fees and Bonuses](/prpay/fees-bonuses).
   `,
-  'prpay/fees-bonuses': `
+  'stake/fees-bonuses': `
 # Fees and Bonuses
 
 PRPay offers competitive fees and exclusive bonuses for crypto purchases and swaps on PromosPay.

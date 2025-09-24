@@ -58,11 +58,11 @@ const sidebarItems = [
     ],
   },
   {
-    key: 'prpay',
-    label: 'PRPay',
+    key: 'stake',
+    label: 'Stake',
     children: [
-      { key: 'how-to-buy', label: <Link to="/prpay/how-to-buy">How to Buy</Link> },
-      { key: 'fees-bonuses', label: <Link to="/prpay/fees-bonuses">Fees Bonuses</Link> },
+      { key: 'how-to-buy', label: <Link to="/stake/how-to-buy">How to Buy</Link> },
+      { key: 'fees-bonuses', label: <Link to="/stake/fees-bonuses">Fees Bonuses</Link> },
     ],
   },
   {

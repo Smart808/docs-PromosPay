@@ -12,7 +12,7 @@ const AppFooter: React.FC = () => {
         <a href="https://twitter.com/PromosPay" target="_blank" rel="noopener noreferrer">
           <XOutlined style={{ fontSize: '24px', color: '#1DA1F2' }} />
         </a>
-        <a href="https://t.me/PromosPay" target="_blank" rel="noopener noreferrer">
+        <a href="https://web.telegram.org/a/#-1002933508328" target="_blank" rel="noopener noreferrer">
           <MessageOutlined style={{ fontSize: '24px', color: '#0088cc' }} /> {/* Placeholder для Telegram */}
         </a>
       </Space>
