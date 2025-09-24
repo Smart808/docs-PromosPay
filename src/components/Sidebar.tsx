@@ -61,7 +61,7 @@ const sidebarItems = [
     key: 'stake',
     label: 'Stake',
     children: [
-      { key: 'how-to-buy', label: <Link to="/stake/how-to-buy">How to Buy</Link> },
+      { key: 'how-to-buy', label: <Link to="/stake/how-to-buy">How to Stake</Link> },
       { key: 'fees-bonuses', label: <Link to="/stake/fees-bonuses">Fees Bonuses</Link> },
     ],
   },
