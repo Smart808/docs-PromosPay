@@ -8,19 +8,26 @@ export const docsContent: { [key: string]: string } = {
   'about-promospay/mission': `
 # Mission
 
-PromosPay is an innovative blockchain-powered platform that combines advanced AI-driven market analysis, trading tools, user-generated forecasting, and earning opportunities. Designed for crypto enthusiasts, traders, and developers, it leverages artificial intelligence to provide real-time insights, while empowering users to contribute to the system's growth through their own predictions. By integrating elements of decentralized finance (DeFi), machine learning, and community-driven economics, PromosPay creates an ecosystem where users can analyze markets, trade assets, train AI models, and earn rewards—all in one seamless experience.
+PromosPay is an AI-native prediction and streaming platform that connects live AI hosts, on-chain markets, and a reward economy in one place. Users watch AI-driven market streams, trade on yes/no prediction markets, and monetize their own analysis through tips, boosts, and on-chain rewards.
+
+By combining decentralized finance (DeFi), machine learning, and community-driven data, PromosPay turns every forecast, trade, and viewer reaction into a signal for our ScAi models. This creates a self-reinforcing ecosystem where users can explore markets, launch and trade predictions, interact with AI models, and earn platform token rewards — all within a single, streamlined experience.
 
 ## Key Features
 
-- **AI-Powered Market Analysis**: Utilize SCAI, our proprietary AI model, to scan and predict trends in crypto, stocks, and RWA (Real World Assets). Get actionable forecasts, neuron metrics, and scanners for optimal trading decisions.
-- **User-Driven AI Training**: Submit your own market forecasts on Promoplace, the platform's marketplace. Accurate predictions not only earn you Crypto Miles (rewards) but also help train and improve the AI model, making it smarter over time.
-- **Trading and liquid Tools**: Trade AI-recommended assets directly on the platform. Use stake and swap for easy crypto on-ramp and swaps with low fees, bonuses, and seamless integration .
-- **Earning Opportunities**: Accumulate Crypto Miles through referrals, accurate forecasts, and platform activity. Redeem them for real rewards, discounts, or staking benefits in the ecosystem.
-- **Referral System**: Invite friends with unique codes to earn bonuses and build your network, boosting collective earnings.
+- **AI Streams & ScAi Models**: Watch AI-generated hosts (ScAi presenters) break down crypto, stocks, and macro events in real time. Each stream is powered by proprietary ScAi models that combine on-chain data, market feeds, and user behaviour.
+
+- **On-Chain Prediction Markets**: Trade yes/no outcome tokens on events — from markets to macro and narratives. Users can open and close positions, speculate on scenarios, and see how AI-scored probabilities compare to market odds.
+
+- **Creator-Driven Forecasts**: Users create their own predictions, attach theses and parameters, and publish them to the feed. High-quality and popular forecasts attract liquidity, tips, boosts, and become training signals for ScAi models.
+
+- **PRO Token Rewards**: Use the platform actively — watch streams, place prediction trades, tip AI hosts and creators, boost markets, or purchase platform subscriptions — and earn rewards in the PRO token. PRO can be used for access to advanced features, boosts, and future governance mechanics.
+
+- **Referral & Partner Campaigns**: Invite users via referral links and codes, participate in partner campaigns, and earn additional PRO rewards for activity across the ecosystem.
+
 
 ## How It Works
 
-PromosPay operates on a blockchain foundation to ensure transparency, security, and decentralization. Users start by onboarding with a wallet connect, then explore AI tools for market insights. They can create and share forecasts on Promoplace, where community validation and AI learning occur. Successful contributions reward users with Crypto Miles, which can be redeemed or used for premium features. The platform's AI evolves with user input, creating a self-improving loop that benefits everyone.
+PromosPay operates on a blockchain foundation to ensure transparency, security, and decentralization. Users start by onboarding with a wallet connect, then explore AI tools for market insights. They can create and share Predictions on Promoplace, where community validation and AI learning occur. Successful contributions reward users with PRO token, which can be redeemed or used for premium features. The platform's AI evolves with user input, creating a self-improving loop that benefits everyone.
 
 ## Benefits for Users
 
@@ -31,7 +38,7 @@ PromosPay operates on a blockchain foundation to ensure transparency, security, 
 
 PromosPay is more than a trading tool—it's a community-driven economy where analysis meets earnings. Join us to shape the future of AI in finance! For more details, explore our [Mission and Goals](/about-promospay/mission) or [Technical Overview](/about-promospay/technical-overview).
   `,
-  'about-promospay/technical-overview': `
+  'about-promospay/technical-overview': `  
 # Technical Overview
 
 PromosPay leverages a robust technical architecture to deliver a seamless and secure experience for traders, forecast creators, and developers. Built on a decentralized blockchain framework, the platform ensures transparency, immutability, and security for all transactions and data exchanges. The core components include:
@@ -69,25 +76,25 @@ To begin using PromosPay, follow these simple steps to set up your account and s
 3. Verify your wallet via QR code or browser extension for secure access.
 
 ### Step 2: Explore the Platform
-- **Dashboard**: View real-time market insights, AI-driven forecasts, and trending assets.
-- **Earn**: Submit your own market predictions to earn Crypto Miles and train the AI.
-- **Trade AI**: Use AI scanners and neuron metrics to identify trading opportunities.
-- **Stake**: Swap and Stake with low fees and exclusive bonuses.
+- **Market**: View real-time market insights, AI-driven predictions, and trending assets.
+- **Promo**: Participate in promotions from the platform and partners to receive rewards.
+- **ProLab**: Use AI modeling and predictions tools to promote your platform and monetize it.
+- **PrPay**: Swap and Stake with low fees and exclusive bonuses.
 
 ### Step 3: Set Up Preferences
-- Customize your dashboard with preferred assets (stocks, crypto, RWA).
+- Configure and select the markets you're interested in for analysis and trading..
 - Enable notifications for AI-driven alerts and market updates.
 - Join the referral program to share your unique code and earn rewards.
 
 ### Next Steps
 - Learn how to use AI SCAI in [Using AI SCAI](/onboarding/using-ai-scai).
-- Start creating forecasts in [Creating Forecasts](/onboarding/creating-forecasts).
+- Start creating Predictions in [Creating Forecasts](/onboarding/creating-forecasts).
 - Connect your mobile device via [Connect Mobile QR](/onboarding/connect-mobile-qr).
   `,
   'onboarding/using-ai-scai': `
 # Using AI SCAI
 
-SCAI is PromosPay's proprietary AI model designed to provide predictive analytics and market insights for crypto, stocks, and Real World Assets (RWA). Here's how to leverage SCAI for your trading and forecasting needs.
+SCAI is PromosPay's proprietary AI model, developed to provide predictive analytics and market data on cryptocurrencies, stocks, global markets, and real-world assets (RWAs). Here's how to use SCAI for your trading and forecasting needs.
 
 ### Accessing SCAI
 1. Navigate to the **Trade AI** section on the PromosPay dashboard.
@@ -96,30 +103,30 @@ SCAI is PromosPay's proprietary AI model designed to provide predictive analytic
 
 ### Features
 - **Predictive Analytics**: SCAI analyzes historical and real-time data to forecast price movements.
-- **Neuron Metrics**: Visualize market trends through interactive bubble charts, highlighting high-potential assets.
+- **Neuron Metrics**: Visualize market trends through interactive model interactions, highlighting high-potential assets.
 - **Custom Alerts**: Set up notifications for specific price thresholds or market events.
 
 ### Tips for Success
 - Combine SCAI insights with your own research for informed trading decisions.
-- Contribute forecasts on Promoplace to improve SCAI's accuracy and earn rewards.
+- Trade predictions  on PromoPay to improve SCAI's accuracy and earn rewards.
 - Monitor trending analytics in [Trending Analytics](/onboarding/trending-analytics) to stay ahead of market trends.
 
 For technical details, see [Model Capabilities](/scai-ai/model-capabilities).
   `,
-  'onboarding/creating-forecasts': `
-# Creating Forecasts
+  'onboarding/creating-predictions': `
+# Creating Predictions
 
 PromosPay allows users to create and submit market forecasts on Promoplace, contributing to AI training and earning Crypto Miles. Here's how to get started.
 
-### Steps to Create a Forecast
+### Steps to Create a predictions
 1. Go to your PromosPay dashboard.
-2. Choose an asset (e.g., BTC, AAPL) and select a timeframe (1h, 1d, 7d, 30d).
-3. Enter your price forecast, describe the technical analysis, fundamental, etc. and submit it for verification by the AI.
-4. Track your forecast's performance in the dashboard.
+2. Select a market, asset or other event, fill in the event settings and deposit funds into the pool.
+3. Enter your price predictions, describe the technical analysis, fundamental, etc. and submit it for verification by the AI.
+4. Track your predictions performance in the dashboard.
 
 ### Benefits
-- **Earn Rewards**: Accurate forecasts earn crypto miles, tips, and a pool that can be used to gain platform benefits.
-- **Train AI**: Your predictions help improve SCAI's accuracy, benefiting all users.
+- **Earn Rewards**: Accurate predictions earn PRO, tips and a pool that can be used to gain platform benefits.
+- **Train Ai**: Your predictions help improve SCAI's accuracy, benefiting all users.
 - **Compete**: Climb the leaderboard by submitting consistently accurate forecasts.
 
 ### Best Practices
@@ -158,8 +165,8 @@ For more onboarding steps, see [Getting Started](/onboarding/getting-started).
 PromosPay's trending analytics feature provides real-time insights into market movements across crypto, stocks, and Real World Assets (RWA). This tool helps users identify high-potential opportunities and make informed decisions.
 
 ### Accessing Trending Analytics
-1. Navigate to the **Trade AI** section on the PromosPay dashboard.
-2. Select the **Trending Analytics** tab to view top-performing assets.
+1. Navigate to the **Market** section on the PromosPay dashboard.
+2. Select the **Get Analytics** tab to view top-performing assets.
 3. Filter by timeframe (1h, 1d, 7d, 30d) or asset category.
 
 ### Features
@@ -205,7 +212,7 @@ Promoplace offers multiple ways to earn Crypto Miles and tokens through accurate
 ### Reward Structure
 - **Base Rewards**: Earn 10–100 Crypto Miles per accurate forecast, based on accuracy and asset volatility.
 - **Bonus Rewards**: Top performers on the leaderboard receive up to 500 Miles monthly.
-- **Referral Boost**: Invite friends to Promoplace and earn a percentage of their rewards.
+- **Referral Boost**: Invite friends to PromosPay and earn a percentage of their rewards.
 
 ### Tips for Success
 - Use SCAI analytics to inform your predictions ([AI Scanner](/trade-ai/ai-scanner)).
@@ -215,12 +222,12 @@ Promoplace offers multiple ways to earn Crypto Miles and tokens through accurate
 For more details, see [Overview of Promoplace](/promoplace/overview).
   `,
   'promoplace/training-ai': `
-# Training AI on Promoplace
+# Training AI on PromosPay
 
 Promoplace allows users to contribute to the training of the SCAI AI model by submitting market forecasts. These predictions enhance the platform's predictive capabilities, benefiting the entire community.
 
 ### How It Works
-1. **Submit Forecasts**: Predict price movements for selected assets on Promoplace.
+1. **Submit Forecasts**: Predict price movements for selected assets on PromosPay.
 2. **Validation**: Forecasts are evaluated by the community and AI for accuracy.
 3. **Integration**: Accurate predictions are fed into SCAI's training dataset, improving its models.
 4. **Rewards**: Earn Crypto Miles for contributing to AI training.
@@ -244,13 +251,13 @@ SCAI is PromosPay's proprietary AI model, designed to deliver cutting-edge marke
 
 ### Core Capabilities
 - **Predictive Modeling**: Forecasts price movements using historical data, real-time feeds, and user-generated predictions.
-- **Neuron Metrics**: Visualizes market trends through dynamic bubble charts, highlighting high-potential assets.
-- **Multi-Asset Analysis**: Covers crypto (BTC, ETH), stocks (AAPL, MSFT), and RWA with customizable timeframes (1h, 1d, 7d, 30d).
-- **Adaptive Learning**: Integrates user forecasts from Promoplace to continuously improve accuracy.
+- **Neural Metrics**: Provides custom metrics and scanners for global markets and events.
+- **Multi-Asset Analysis**: Covers cryptocurrencies (BTC, ETH), stocks (AAPL, MSFT), and RWA with customizable timeframes, as well as event-driven predictions.
+- **Adaptive Learning**: Integrates user Predictions from PromoPay to continuously improve accuracy.
 
 ### Technical Details
 - **Data Sources**: Integrates with  API for real-time market data.
-- **Training**: Combines supervised learning with community-driven data from Promoplace.
+- **Training**: Combines supervised learning with community-driven data from PromosPay.
 - **Performance**: Optimized for low-latency predictions, with database caching.
 
 ### Use Cases
@@ -266,14 +273,14 @@ For more details, see [How It Works](/scai-ai/how-it-works).
 SCAI (Smart Crypto AI) powers PromosPay's market analysis by combining advanced machine learning with user-driven data. Here's an overview of its operation.
 
 ### Workflow
-1. **Data Collection**: SCAI aggregates real-time data from data collection, on-chain data and user forecasts from Promoplace.
-2. **Analysis**: Processes historical and live data to generate predictive models for price movements.
-3. **Visualization**: Displays insights through neuron metrics and bubble charts in the Trade AI section.
-4. **Learning**: Incorporates validated user forecasts to refine its algorithms.
+1. **Data Collection**: SCAI aggregates real-time data from data collection, on-chain data and user forecasts from PromosPay.
+2. **Analysis**: Processes historical and live data to generate predictive models for price movements and events.
+3. **Visualization**: Displays insights through neuron metrics and data section.
+4. **Learning**: Incorporates validated user fpredictions to refine its algorithms.
 
 ### Integration with PromosPay
-- **Trade AI**: Access SCAI predictions via the dashboard for trading decisions.
-- **Promoplace**: Submit forecasts to train SCAI and earn Crypto Miles.
+- **Market**: Access SCAI predictions via the dashboard for trading decisions.
+- **ProLab**: Submit forecasts to train SCAI and earn Crypto Miles.
 - **API Access**: Developers can integrate SCAI outputs into custom applications ([API Access](/for-developers/api-access)).
 
 ### Benefits
@@ -283,52 +290,52 @@ SCAI (Smart Crypto AI) powers PromosPay's market analysis by combining advanced 
 
 For more details, see [Model Capabilities](/scai-ai/model-capabilities).
   `,
-  'crypto-miles/earning': `
-# Earning Crypto Miles
+  'rewards/earning': `
+# Earning Rewards
 
-Crypto Miles is PromosPay's reward system, allowing users to earn points for platform activity and redeem them for tokens.
+Rewards is PromosPay's reward system, allowing users to earn points for platform activity and redeem them for tokens.
 
-### How to Earn Crypto Miles
-1. **Submit Forecasts**: Accurate predictions on Promoplace earn 10–100 Miles per forecast.
+### How to Earn Rewards
+1. **Trade predictions**: Accurate predictions on PromosPay earn tokens PRO per predictions.
 2. **Refer Friends**: Share your referral code to earn a percentage of their rewards ([Sharing Referral](/referrals/sharing-referral)).
-3. **Participate in Challenges**: Join trading or forecasting competitions for bonus Miles.
-4. **Engage Actively**: Complete tasks like connecting a wallet or setting preferences.
+3. **Participate in Promo*: Join trading or predictions competitions for bonus tokens.
+4. **Engage Actively**: Buy subscriptions, get boosts, and tip models..
 
 ### Reward Structure
-- **Base Earnings**: 10–100 Miles per action, based on impact (e.g., forecast accuracy).
-- **Bonus Miles**: Up to 500 Miles for top performers in monthly challenges.
-- **Referral Bonus**: 5–10% of referred users' earnings.
+- **Base Earnings**: Per action, depending on its effectiveness (e.g., forecast accuracy).
+- **Bonus Miles**: For top participants in monthly contests.
+- **Referral Bonus**: 5–10% of the earnings of referred users.
 
 ### Tips for Maximizing Earnings
 - Focus on high-accuracy forecasts using SCAI analytics.
 - Invite active users to boost referral rewards.
 - Check the dashboard for new challenges and tasks.
 
-For more details, see [Redeeming Crypto Miles](/crypto-miles/redeeming).
+For more details, see [Redeeming Crypto Miles](/rewards/redeeming).
   `,
-  'crypto-miles/redeeming': `
+  'rewards/redeeming': `
 # Redeeming Crypto Miles
 
-Crypto Miles can be redeemed for various benefits on PromosPay, enhancing your trading and platform experience.
+Rewards can be redeemed for various benefits on PromosPay, enhancing your trading and platform experience.
 
 ### How to Redeem
-1. Navigate to the **Crypto Miles** section in the PromosPay dashboard.
+1. Navigate to the **Rewards** section in the PromosPay dashboard.
 2. View your available Miles balance.
 3. Choose from redemption options:
    - **Discounts**: Reduce fees on PRPay swaps.
    - **Premium Features**: Unlock advanced SCAI analytics or extended API access.
-   - **Staking**: Convert Miles to staking tokens for passive income.
+   - **Staking**: Convert Rewards to staking tokens for passive income.
    - **Rewards**: Exchange for gift cards or partner offers.
 
 ### Redemption Process
-1. Select a reward and confirm the Miles cost.
+1. Select a reward and confirm the token cost.
 2. Complete the redemption transaction (blockchain-verified).
 3. Receive your benefit instantly or within 24 hours (for external rewards).
 
 ### Tips for Success
 - Check redemption options regularly for new offers.
 - Prioritize high-value rewards like premium features for trading.
-- Learn how to earn more Miles in [Earning Crypto Miles](/crypto-miles/earning).
+- Learn how to earn more Miles in [Earning Crypto Miles](/rewards/earning).
 
 For more details, see [PRPay Fees and Bonuses](/prpay/fees-bonuses).
   `,

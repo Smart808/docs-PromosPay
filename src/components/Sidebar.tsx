@@ -18,7 +18,7 @@ const sidebarItems = [
     children: [
       { key: 'getting-started', label: <Link to="/onboarding/getting-started">Getting Started</Link> },
       { key: 'using-ai-scai', label: <Link to="/onboarding/using-ai-scai">Using AI SCAI</Link> },
-      { key: 'creating-forecasts', label: <Link to="/onboarding/creating-forecasts">Creating Forecasts</Link> },
+      { key: 'creating-predictions', label: <Link to="/onboarding/creating-predictions">Creating predictions</Link> },
       { key: 'connect-mobile-qr', label: <Link to="/onboarding/connect-mobile-qr">Connect Wallet</Link> },
       { key: 'trending-analytics', label: <Link to="/onboarding/trending-analytics">Trending Analytics</Link> },
     ],
@@ -32,11 +32,11 @@ const sidebarItems = [
     ],
   },
   {
-    key: 'crypto-miles',
-    label: 'Crypto Miles',
+    key: 'rewards',
+    label: 'Rewards',
     children: [
-      { key: 'earning', label: <Link to="/crypto-miles/earning">Earning</Link> },
-      { key: 'redeeming', label: <Link to="/crypto-miles/redeeming">Redeeming</Link> },
+      { key: 'earning', label: <Link to="/rewards/earning">Earning</Link> },
+      { key: 'redeeming', label: <Link to="/rewards/redeeming">Redeeming</Link> },
     ],
   },
   {
