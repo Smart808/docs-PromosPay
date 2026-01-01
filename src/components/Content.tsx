@@ -181,112 +181,144 @@ PromosPay's trending analytics feature provides real-time insights into market m
 
 For more details, see [AI Scanner](/trade-ai/ai-scanner).
   `,
-  'promoplace/overview': `
-# Overview of Promoplace
+  'market/overview': `
+# Overview of Market
 
-Promoplace is the heart of PromosPay's community-driven forecasting marketplace. It allows users to submit market predictions, compete for accuracy, and earn Crypto Miles while contributing to the training of the SCAI AI model. Here's how it works:
+The Market is the heart of PromosPay's community-driven prediction market platform. It allows users to trade market predictions, compete in accuracy, and earn cryptocurrency, all while participating in training the SCAI artificial intelligence model and accessing existing models. Here's how it works:
 
 ### Key Features
-- **Submit Forecasts**: Predict price movements for stocks, crypto, or RWA.
-- **Community Validation**: Forecasts are evaluated by the community and AI for accuracy.
-- **Rewards**: Earn Crypto Miles and tokens for accurate predictions, redeemable for platform benefits.
-- **AI Training**: Your forecasts help improve SCAI, making it smarter for all users.
+- **Prediction Trading**: Predict the price movements of stocks, cryptocurrencies, or other events.
+
+- **AI Validation**: Predictions are assessed by the community and AI for accuracy.
+
+- **Rewards**: Earn Rewards and tokens for trading predictions, which can be exchanged for platform benefits.
+
+- **AI Training**: Your predictions help improve SCAI, making it smarter for all users.
 
 ### Getting Started
 1. Go to your PromosPay dashboard.
-2. Select an asset (e.g., AAPL, BTC) and submit your price prediction for a specific timeframe.
-3. Monitor your forecast's performance and earn rewards based on accuracy.
 
-For more details, see [Earning on Promoplace](/promoplace/earning) or [Training AI](/promoplace/training-ai).
+2. Select Stream or Predictions and start trading.
+
+3. Track the accuracy of AI forecasts and their podcasts and earn rewards for engaging with them.
+
+For more details, see [Earning on Market](/market/earning) or [Training AI](/market/training-ai).
   `,
-  'promoplace/earning': `
-# Earning on Promoplace
+  'market/earning': `
+# Earning on Market
 
-Promoplace offers multiple ways to earn Crypto Miles and tokens through accurate market forecasts and community participation. Here's how you can maximize your earnings.
+The market offers a variety of ways to earn rewards and tokens for using AI hosts, trading forecasts, and participating in company promotions. Here's how you can maximize your earnings.
 
 ### How to Earn
-1. **Submit Accurate Forecasts**: Predict price movements for assets like BTC, AAPL, or RWA. Higher accuracy yields more Crypto Miles.
-2. **Participate in Challenges**: Join weekly or monthly forecasting competitions to earn bonus rewards.
-3. **Contribute to AI Training**: Your validated predictions help improve SCAI, earning additional Miles.
+1. **Buy a Subscription**: Purchase subscriptions to our hosts and receive market and asset data from them. The higher the accuracy, the greater the chances.
+
+2. **Participate in Predictions**: Join prediction markets to profit from events and receive participation bonuses.
+
+3. **Contribute to AI Training**: Your verified forecasts help improve SCAI, earning additional miles.
 
 ### Reward Structure
-- **Base Rewards**: Earn 10–100 Crypto Miles per accurate forecast, based on accuracy and asset volatility.
-- **Bonus Rewards**: Top performers on the leaderboard receive up to 500 Miles monthly.
-- **Referral Boost**: Invite friends to PromosPay and earn a percentage of their rewards.
+- **Base Rewards**: Earn for each accurate forecast, based on the accuracy and volatility of the asset, as well as for supporting and promoting our models.
+
+- **Bonus Rewards**: Top performers on the leaderboard receive monthly rewards.
+
+- **Referral Bonus**: Invite friends to PromosPay and receive a percentage of their rewards.
 
 ### Tips for Success
-- Use SCAI analytics to inform your predictions ([AI Scanner](/trade-ai/ai-scanner)).
-- Focus on high-volume assets for higher reward potential.
-- Check your performance regularly in the Promoplace dashboard.
+- Use SCAI analytics for forecasting ([AI Scanner](/trade-ai/ai-scanner)).
 
-For more details, see [Overview of Promoplace](/promoplace/overview).
+- Focus on assets with high trading volume for higher reward potential.
+
+- Regularly monitor your performance on the PromosPay dashboard.
+
+For more details, see [Overview of Market](/market/overview).
   `,
-  'promoplace/training-ai': `
+  'market/training-ai': `
 # Training AI on PromosPay
 
-Promoplace allows users to contribute to the training of the SCAI AI model by submitting market forecasts. These predictions enhance the platform's predictive capabilities, benefiting the entire community.
+The Market platform allows users to participate in training the SCAI artificial intelligence model, providing the opportunity to learn about market prediction trading. These predictions improve the platform's predictive capabilities, benefiting the entire community.
 
-### How It Works
-1. **Submit Forecasts**: Predict price movements for selected assets on PromosPay.
-2. **Validation**: Forecasts are evaluated by the community and AI for accuracy.
-3. **Integration**: Accurate predictions are fed into SCAI's training dataset, improving its models.
-4. **Rewards**: Earn Crypto Miles for contributing to AI training.
+### How it works
+1. **Submit Forecasts**: Trade forecasts of market movements and event outcome probabilities on PromosPay.
+
+2. **Verification**: Forecasts are evaluated for accuracy by the community and the AI.
+
+3. **Integration**: Accurate forecasts are fed into the SCAI training dataset, improving its models.
+
+4. **Rewards**: Earn for participating in AI training.
 
 ### Benefits
-- **Improved AI**: Your forecasts make SCAI smarter, leading to better market predictions for all users.
-- **Community Impact**: Contribute to a collective effort to advance AI-driven trading.
-- **Earnings**: Gain Crypto Miles for each validated forecast used in training.
+- **Improved AI**: Your forecasts make SCAI smarter, resulting in improved market predictions for all users.
 
-### Best Practices
-- Submit detailed predictions with justifications to increase validation chances.
-- Focus on diverse assets to provide varied data for SCAI.
+- **Community Impact**: Contribute to the collective effort to advance AI-powered trading.
+
+- **Earnings**: Earn for interacting with our models used in training.
+
+### Recommendations
+- Provide successful prediction data with justifications to increase the chances of confirmation.
+
+- Focus on different assets to provide diverse data for SCAI.
+
 - Learn more about SCAI in [Model Capabilities](/scai-ai/model-capabilities).
 
-For more details, see [Overview of Promoplace](/promoplace/overview).
+For more details, see [Overview of Market](/market/overview).
   `,
   'scai-ai/model-capabilities': `
 # Model Capabilities
 
-SCAI is PromosPay's proprietary AI model, designed to deliver cutting-edge market analysis and predictive insights for crypto, stocks, and Real World Assets (RWA).
+SCAI is PromosPay's proprietary artificial intelligence model, designed to provide advanced market analysis and forecast data for cryptocurrencies, stocks, and other markets.
 
-### Core Capabilities
-- **Predictive Modeling**: Forecasts price movements using historical data, real-time feeds, and user-generated predictions.
+### Key Features
+- **Predictive Modeling**: Forecasts price movements and events using historical and real-time data, as well as our clients' forecasts.
+
 - **Neural Metrics**: Provides custom metrics and scanners for global markets and events.
-- **Multi-Asset Analysis**: Covers cryptocurrencies (BTC, ETH), stocks (AAPL, MSFT), and RWA with customizable timeframes, as well as event-driven predictions.
-- **Adaptive Learning**: Integrates user Predictions from PromoPay to continuously improve accuracy.
 
-### Technical Details
-- **Data Sources**: Integrates with  API for real-time market data.
-- **Training**: Combines supervised learning with community-driven data from PromosPay.
-- **Performance**: Optimized for low-latency predictions, with database caching.
+- **Multi-Asset Analysis**: Covers cryptocurrencies (BTC, ETH), stocks (AAPL, MSFT), and RWA with customizable timeframes, as well as event-based forecasts for other global markets and trends.
+
+- **Adaptive Learning**: Integrates user forecasts from PromoPay to continuously improve accuracy.
+
+### Technical Specifications
+- **Data Sources**: Integrates with APIs for real-time market data.
+
+- **Learning**: Combines supervised learning with data collected from the PromosPay community.
+
+- **Performance**: Optimized for low-latency forecasting, with database caching.
 
 ### Use Cases
-- Traders: Identify trading opportunities with AI-driven signals.
-- Forecast Creators: Enhance predictions with SCAI insights.
-- Developers: Integrate SCAI via API for custom applications.
+- Traders: Identify trading opportunities with AI-powered signals.
+
+- Forecasters: Improve forecasts with SCAI analytics.
+
+- Developers: Integrate SCAI via API to create custom applications.
 
 For more details, see [How It Works](/scai-ai/how-it-works).
   `,
   'scai-ai/how-it-works': `
 # How It Works
 
-SCAI (Smart Crypto AI) powers PromosPay's market analysis by combining advanced machine learning with user-driven data. Here's an overview of its operation.
+SCAI (Smart Crypto AI) is a market analysis system from PromosPay that combines advanced machine learning techniques and user-generated data. Here's a quick overview of how it works.
 
 ### Workflow
-1. **Data Collection**: SCAI aggregates real-time data from data collection, on-chain data and user forecasts from PromosPay.
-2. **Analysis**: Processes historical and live data to generate predictive models for price movements and events.
-3. **Visualization**: Displays insights through neuron metrics and data section.
-4. **Learning**: Incorporates validated user fpredictions to refine its algorithms.
+1. **Data Collection**: SCAI collects real-time data from the data collection system, blockchain data, and user forecasts from PromosPay and other similar platforms.
+
+2. **Analysis**: Processes historical and current data to create predictive models of price movements and events.
+
+3. **Visualization**: Displays analytical data using neural network metrics and a data section.
+
+4. **Learning**: Uses verified user forecasts to refine its algorithms.
 
 ### Integration with PromosPay
-- **Market**: Access SCAI predictions via the dashboard for trading decisions.
-- **ProLab**: Submit forecasts to train SCAI and earn Crypto Miles.
-- **API Access**: Developers can integrate SCAI outputs into custom applications ([API Access](/for-developers/api-access)).
+- **Market**: Access SCAI forecasts through the dashboard to make trading decisions.
+
+- **ProLab**: Submit forecasts for SCAI training and earn crypto miles.
+
+- **API Access**: Developers can integrate SCAI output into their custom applications ([API Access](/for-developers/api-access)).
 
 ### Benefits
-- **Accuracy**: Continuously improves through community-driven training and teams.
-- **Speed**: Delivers low-latency predictions for real-time trading.
-- **Accessibility**: User-friendly interface for traders and newcomers.
+- **Accuracy**: Continuously improved through community training and teamwork.
+
+- **Speed**: Provides low-latency forecasts for real-time trading.
+
+- **Accessibility**: User-friendly interface for traders and beginners.
 
 For more details, see [Model Capabilities](/scai-ai/model-capabilities).
   `,
@@ -314,15 +346,15 @@ Rewards is PromosPay's reward system, allowing users to earn points for platform
 For more details, see [Redeeming Crypto Miles](/rewards/redeeming).
   `,
   'rewards/redeeming': `
-# Redeeming Crypto Miles
+# Redeeming 
 
 Rewards can be redeemed for various benefits on PromosPay, enhancing your trading and platform experience.
 
 ### How to Redeem
 1. Navigate to the **Rewards** section in the PromosPay dashboard.
-2. View your available Miles balance.
+2. View your available balance.
 3. Choose from redemption options:
-   - **Discounts**: Reduce fees on PRPay swaps.
+   - **Discounts**: Apply for a monthly subscription or premium features.
    - **Premium Features**: Unlock advanced SCAI analytics or extended API access.
    - **Staking**: Convert Rewards to staking tokens for passive income.
    - **Rewards**: Exchange for gift cards or partner offers.
@@ -339,161 +371,1039 @@ Rewards can be redeemed for various benefits on PromosPay, enhancing your tradin
 
 For more details, see [PRPay Fees and Bonuses](/prpay/fees-bonuses).
   `,
-  'trade-ai/neurons-metrics': `
-# Neurons Metrics
+  'trade predictions/trading-basics': `
+# Trading Basics
 
-Neural Metrics is a key tool in PromosPay's AI Trading section, providing a visual representation of market trends by optimizing large amounts of data for fast and accurate decision-making. This tool helps traders identify promising assets based on AI-powered analysis.
+PromosPay lets you trade on future events by buying on-chain **YES/NO prediction tokens**.
 
-### How It Works
-1. **Visualization**: Our AI receives asset data from multiple platforms, exchanges, and on-chain scans, and uses its own trained model to generate a concise analysis.
-2. **Metrics**: Displays key indicators such as volume, volatility, custom metrics, and SCAI forecasts.
-3. **Interactivity**: Click on the quick AI analysis in the terminal to view detailed analytics for the asset.
+Each market asks a simple question about the future, for example:
 
-### Accessing Neurons Metrics
-1. Go to the **Trade AI** section on the PromosPay dashboard.
-2. Select an asset on the dashboard and click "AI Analysis" or start trading with AI.
-3. Filter by timeframe (1h, 1d, 7d, 30d) or asset type (crypto, stocks, RWA).
+> “Will BTC close above 80,000 USDT on this date?”
 
-### Benefits
-- **Intuitive Insights**: Quickly identify trending assets with visual cues.
-- **AI-Driven**: Powered by SCAI for accurate and timely data.
-- **Customizable**: Adjust filters to focus on specific markets or metrics.
+Each possible outcome is represented by a separate token:
 
-For more details, see [AI Scanner](/trade-ai/ai-scanner).
+- **YES token** – pays out if the event happens  
+- **NO token** – pays out if the event does not happen  
+
+You do **not** trade the underlying asset directly.  
+Instead, you trade **outcome tokens** that settle to **1** or **0** units of the settlement asset (for example, 1 USDC) when the event is resolved.
+
+This makes each prediction market a **binary payoff**:
+
+- Win → receive 1 unit of the settlement asset per token  
+- Lose → receive 0  
+
+Your maximum loss is always limited to the amount you spend when buying the tokens.
+
+---
+
+## Example: Basic Position
+
+1. You buy **100 YES tokens** at a price of **0.40** each.  
+   - You pay **40 USDC** in total.
+2. If the event happens (YES wins):
+   - Each YES token settles to **1 USDC**
+   - You receive **100 USDC**
+   - Your profit = 100 – 40 = **60 USDC** (before any fees or rewards)
+3. If the event does not happen (NO wins):
+   - Your YES tokens settle to **0**
+   - Your loss is the **40 USDC** you initially paid
+
+---
+
+## Market Lifecycle (High-Level)
+
+Every prediction market goes through several phases:
+
+1. **Open** – trading is available, you can buy YES/NO tokens from the pool.  
+2. **Locked** – trading is stopped a few days before resolution, you can only wait for the result.  
+3. **Resolution** – the event outcome is determined by an oracle or the PromosPay team.  
+4. **Settlement** – winning tokens are paid out, losing tokens become worthless.
+
+The detailed rules for trading windows, lock period and settlement are described in:
+
+- [Order Types & Execution](/trade predictions/order-types)  
+- [Settlement, Lock & Fees](/trade predictions/settlement-and-fees)
+
+---
+
+_Last updated: {{update date here}}_
+
+For more details on funding your account and buying, see [How to Buy](/stake/how-to-buy).
   `,
-  'trade-ai/ai-scanner': `
-# AI Scanner
 
-The AI Scanner is a powerful tool in PromosPay's Trade AI section, designed to identify trading opportunities using SCAI's predictive analytics.
+  /* ===================== 2. Order Types & Execution ===================== */
+  'trade predictions/order-types': `
+# Order Types & Execution
 
-### How It Works
-1. **Data Analysis**: SCAI scans real-time market data  and user forecasts.
-2. **Opportunity Detection**: Identifies assets with high potential based on price trends, volume, and volatility.
-3. **Recommendations**: Provides actionable trading signals with confidence scores.
+In the current version of the protocol, PromosPay uses a **single, simple order type**:
 
-### Accessing the AI Scanner
-1. Navigate to the **Trade AI** section on the PromosPay dashboard.
-2. Select the **AI Scanner** tab to view recommended assets.
-3. Filter by sector, market cap, or timeframe for tailored results.
+- **Instant Order (Pool Buy)** – similar to a market order, you buy YES or NO tokens directly from the on-chain liquidity pool at the current pool price.
 
-### Benefits
-- **Precision**: Leverages SCAI's advanced algorithms for accurate predictions.
-- **Speed**: Delivers real-time signals for fast decision-making.
-- **Accessibility**: User-friendly interface for traders of all levels.
+There is:
 
-For more details, see [Neurons Metrics](/trade-ai/neurons-metrics).
+- **no order book**,  
+- **no limit orders**,  
+- **no advanced routing** yet.
+
+You always see the current price from the pool and decide how much to buy.
+
+Future versions of the trading engine may introduce more sophisticated order types, but this document describes the **live implementation**.
+
+---
+
+## Instant Orders (Pool Buy)
+
+An Instant Order is a request to **immediately buy** a specific amount of YES or NO tokens from the market’s liquidity pool at the best price currently available in that pool.
+
+Orders are executed **without delay**, as long as:
+
+- the market is still **Open for trading**, and  
+- the **pool has enough liquidity** for your size.
+
+Because pricing is handled by an automated pool curve, **large orders** can move the price inside the pool while your trade is being executed.
+
+---
+
+## How Instant Orders Work
+
+1. **Choose a market**  
+   Open the **Prediction Markets / Trade Predictions** section and select the event you want to trade.
+
+2. **Select your side**  
+   - Buy **YES** if you think the event will happen.  
+   - Buy **NO** if you think the event will not happen.
+
+3. **Enter size**  
+   Depending on the interface, you can specify:
+   - how much you want to spend (e.g. 50 USDC), or  
+   - how many outcome tokens you want to receive (e.g. 100 YES tokens).
+
+4. **Review price and max payout**  
+   Before confirming, you see:
+   - the **current pool price** (between 0 and 1 unit of the settlement asset),  
+   - your **maximum possible payout** at settlement,  
+   - your **maximum possible loss** (never more than what you pay now).
+
+5. **Confirm in your wallet**  
+   Sign the transaction and receive your YES or NO tokens in your wallet. From this moment you hold an on-chain position in that prediction market.
+
+---
+
+## Price Impact and Slippage
+
+The price you see is determined by the **current state of the pool**. When you place a bigger order:
+
+- the pool’s **YES/NO balance changes**,  
+- the **price moves** along the curve,  
+- your effective average price can be slightly worse than the initial quote.
+
+The interface can show:
+
+- **estimated average price**, and  
+- **expected slippage** for your order size.
+
+If the trade would exceed configured limits (for example, too extreme price move or insufficient liquidity), the transaction may be **reverted** by the smart contract.
+
+---
+
+## No Limit Orders (Yet)
+
+PromosPay **does not support**:
+
+- limit orders,  
+- resting orders on an order book,  
+- partial fills over time.
+
+Every trade is an **immediate interaction** with the pool at its current price.
+
+Advanced order types may be added in future versions of the protocol. When this happens, a separate section will be added to the documentation.
+
+---
+
+For lock rules, settlement and fees, see  
+[Settlement, Lock & Fees](/trade predictions/settlement-and-fees).
+
+---
+
+_Last updated: {{update date here}}_
   `,
-  'trade-ai/trading-assets': `
-# Trading Assets
 
-PromosPay's Trade AI section enables users to trade a wide range of assets, including cryptocurrencies, stocks, and Real World Assets (RWA), with AI-driven insights.
+  /* ===================== 3. Settlement, Lock & Fees ===================== */
+  'trade predictions/settlement-and-fees': `
+# Settlement, Lock & Fees
 
-### Supported Assets
-- **Cryptocurrencies**: BTC, ETH, and major altcoins.
-- **Stocks**: Leading companies like AAPL, MSFT, NVDA.
-- **RWA**: Tokenized real-world assets like real estate or commodities.
+This section explains:
 
-### How to Trade
-1. Navigate to the **Trade AI** section on the PromosPay dashboard.
-2. Select an asset on the dashboard and click "AI Analysis" or start trading with AI..
-3. Use Stake to execute trades with low fees and bonuses.
-4. Monitor performance with real-time analytics.
+- when trading is **available** or **blocked**,  
+- how events are **resolved**,  
+- how payouts are **calculated**,  
+- how and when **fees** are applied.
 
-### Benefits
-- **AI Support**: SCAI provides predictions to guide trading decisions.
-- **Low Fees**: Competitive rates via Stake and Trade.
-- **Seamless Execution**: Fast and secure transactions with blockchain integration.
+---
 
-For more details, see [How to Buy](/stake/how-to-buy).
+## Trading Window and Lock Period
+
+Each prediction market has a **fixed event time** (resolution time) and a **trading cut-off rule**:
+
+- Trading is available **up until 5 days before** the scheduled event resolution time.  
+- When there are **5 days or less** remaining until resolution, the market switches to **Locked**:
+  - You **can no longer buy** additional YES/NO tokens.  
+  - You **cannot sell or exit** your existing position early.  
+  - You simply hold your tokens and wait for the final outcome.
+
+In the UI you see:
+
+- the **event end time**,  
+- the **remaining time until the 5-day lock**, and  
+- the current **status** of the market (Open / Locked / Settling).
+
+This design keeps PromosPay markets closer to **fixed-horizon binary bets** with a clear and transparent timeline.
+
+---
+
+## Settlement and Payouts
+
+When the real-world event resolves, the market moves to the **Resolution** phase.
+
+### 1. Determining the outcome
+
+The event result is determined by:
+
+- a **Chainlink oracle**, or  
+- the **PromosPay team**, according to published rules for that specific market.
+
+The resolution source and conditions are described in the **market description** in the interface.
+
+### 2. Settling outcome tokens
+
+After the result is confirmed:
+
+- Tokens for the **winning outcome** (YES or NO) settle to **1 unit** of the settlement asset (e.g. 1 USDC per token).  
+- Tokens for the **losing outcome** settle to **0**.
+
+### 3. Distributing winnings
+
+- If you held the **winning side**, you receive the payout directly in the settlement asset to your wallet or platform balance.  
+- If you held the **losing side**, you do not receive anything at settlement — your full risk was already paid up-front when buying the tokens.
+
+### 4. Example
+
+- You buy **100 YES tokens** at **0.40** each → you spend **40 USDC**.  
+- The event happens → YES is the winning outcome.  
+- At settlement you receive **100 USDC**.  
+- Your **profit** = 100 – 40 = **60 USDC** (before any fees or rewards).  
+
+If the event does **not** happen, YES loses:
+
+- Your YES tokens settle to **0**.  
+- Your **loss** is the **40 USDC** you spent initially.
+
+---
+
+## Closing or Selling Positions
+
+In the current version of PromosPay:
+
+- There is **no secondary market**, and  
+- You **cannot sell your YES/NO tokens before resolution**.
+
+Once you enter a market:
+
+- You may add more exposure while the market is **Open** (more than 5 days before resolution).  
+- After the market becomes **Locked**, you **hold until settlement**.
+
+This means:
+
+- Your **maximum loss** is known and limited at entry (the amount you spent on tokens).  
+- Your **maximum payout** is known (number of tokens × 1 unit of the settlement asset).
+
+Early exit, peer-to-peer trading, and advanced liquidity mechanisms are planned for later versions but are **not part of the current live protocol**.
+
+---
+
+## Fees
+
+PromosPay charges a fee on trades in prediction markets.  
+The exact fee parameters can vary by **market category**, **campaign**, or **partner program** and are displayed in the trading interface before confirmation.
+
+General principles:
+
+- Fees are applied when you **buy YES/NO tokens from the pool**.  
+- There are **no extra protocol fees at settlement** – you receive your winning payout according to the market result.  
+- Certain promotional or partner markets may use a different fee structure, which is explicitly shown in the market description.
+
+Always check the **fee line** in the trading panel before confirming the transaction.
+
+---
+
+## Who Are You Trading Against?
+
+On PromosPay, you are **not** trading against the platform itself.
+
+All trades are executed against an **on-chain liquidity pool** that aggregates capital from:
+
+- other users,  
+- potential liquidity providers,  
+- partner campaigns and programs.
+
+When you:
+
+- **buy YES tokens**, you take risk on the event happening and shift the pool’s exposure toward NO,  
+- **buy NO tokens**, you take risk on the event not happening and shift the pool’s exposure toward YES.
+
+The pool updates prices automatically according to its **pricing curve** and the current balance between YES and NO. This means:
+
+- Prices are determined **algorithmically**, not by a central dealer.  
+- Everyone interacts with the **same pool**, under the same rules.  
+- Larger trades can move the price more than smaller ones.
+
+---
+
+## Trading Hours
+
+Prediction markets on PromosPay are generally available **24/7**, as long as:
+
+- the blockchain and oracle infrastructure are functioning normally, and  
+- the market is in **Open** state (i.e. more than 5 days remain until event resolution).
+
+Trading may be temporarily paused for:
+
+- protocol upgrades and maintenance,  
+- issues with external data feeds or oracles,  
+- security or risk management reasons.
+
+If a specific market is paused, locked, or under maintenance, this status is displayed in the UI, and new trades will not be accepted until it reopens.
+
+---
+
+_Last updated: {{update date here}}_
   `,
-  'stake/how-to-buy': `
-# How to STAKE
 
-Stake is PromosPay's crypto stake and swap service, allowing users to purchase cryptocurrencies and swap assets with ease.
+ 'promo/activity in promotions': `
+# Activity in Promotions
 
-### Steps to Stake and Swap
-1. Go to the **Stake** section on the PromosPay dashboard.
-2. Select "Stake or swap" and choose the desired asset (e.g., Usdt, Usde).
-3. Connect your wallet via WalletConnect ([Connect Mobile via QR](/onboarding/connect-mobile-qr)).
-4. Enter the amount and select "Verify all details."
-5. Confirm the transaction and receive assets in your wallet.
+Promotional campaigns on PromosPay let you **earn rewards from companies and projects** by performing real actions: from social media posts and articles to placing prediction trades, inviting friends, or promoting AI presenters and models.
 
-### Supported Payment Methods
-- **Fiat**: Credit/debit cards, bank transfers.
-- **Crypto**: Swap existing tokens (e.g., Usdt to prUSD).
-- **Crypto Miles**: Use Miles to reduce fees ([Redeeming Crypto Miles](/crypto-miles/redeeming)).
+Brands, protocols, and communities launch promo campaigns on the platform, and users complete tasks to:
 
-### Benefits
-- **Low Fees**: Competitive rates with bonuses for active users.
-- **Fast Transactions**: Instant processing for most purchases.
-- **Secure**: Blockchain-verified transactions with WalletConnect.
+- get visibility for their forecasts and AI streams,  
+- help projects grow their audience,  
+- earn rewards in the PromosPay ecosystem token and other campaign prizes.
 
-For more details, see [Fees and Bonuses](/prpay/fees-bonuses).
+Everything is tied to your **wallet** and **PromosPay profile**, so your activity, progress, and rewards are fully trackable.
+
+---
+
+## What Is a Promotion?
+
+A **promotion** (promo campaign) is a set of tasks launched by a company or project with a **reward pool** and clear **conditions**.
+
+Typical examples:
+
+- publish a post or thread about a project on social media,  
+- write a review or article,  
+- place a prediction on a specific market,  
+- invite friends to the platform,  
+- subscribe or join project social channels,  
+- create an AI presenter/model and use it in content.
+
+Companies set:
+
+- **goals** (traffic, engagement, predictions, AI models, etc.),  
+- **period** of the campaign,  
+- **requirements** and allowed platforms,  
+- **reward logic** (fixed per task, share of the pool, bonuses for top performers).
+
+You, as a user, complete tasks and get rewarded after **verification**.
+
+---
+
+## Types of Promo Tasks
+
+Promotions can include one or several types of actions. Typical task categories:
+
+### 1. Social Media Actions
+
+- Publish a post, thread, video, or story about the project.  
+- Share a link to a stream, prediction market, or AI presenter.  
+- Tag official accounts and use required hashtags.  
+
+Examples:
+
+- “Post a thread on X about our BTC prediction campaign and include your PromosPay forecast link.”  
+- “Share a clip from an AI stream host and tag the project.”
+
+You will need to provide **links** to your posts as proof.
+
+---
+
+### 2. Content & Articles
+
+- Long-form content: blog post, Medium article, Substack, or review.  
+- Analytical breakdown of a project, token, or prediction market.  
+- Video reviews or tutorials about using PromosPay features.
+
+Example:
+
+- “Publish a Medium article explaining how to use our prediction market and include at least one example trade made through PromosPay.”
+
+Such tasks usually have **higher rewards**, but stricter quality requirements.
+
+---
+
+### 3. Prediction & Trading Activity
+
+- Place a prediction on a specific market (YES/NO position).  
+- Participate in a series of markets (e.g. 3 or more predictions during campaign).  
+- Use boosts or tips for your forecasts promoted in the campaign.
+
+Examples:
+
+- “Place at least one YES/NO position on the campaign market above the minimum stake.”  
+- “Make 3 different predictions on our sponsored markets during the week.”
+
+Most of these tasks are **tracked on-chain** automatically – no manual proof needed, but you must use the **correct markets** and **wallet**.
+
+---
+
+### 4. Referrals & Community Growth
+
+- Invite a friend or community to join PromosPay.  
+- Get others to follow project channels or join Discord/Telegram.  
+- Bring new traders to a sponsored market or AI stream.
+
+Examples:
+
+- “Invite a friend who connects a wallet and makes their first prediction.”  
+- “Bring new active members to the campaign’s community channel.”
+
+To count, referrals typically need to:
+
+- use your **referral link** or code, and  
+- complete **minimum required activity** (e.g. connect wallet + trade).
+
+---
+
+### 5. AI Models & AI Hosts
+
+- Create an AI model or AI presenter on PromosPay (when the feature is active).  
+- Use this model in predictions, streams, or promo content.  
+- Promote your AI host together with the partner brand.
+
+Examples:
+
+- “Create an AI presenter for crypto market commentary and record a short video explaining the partner protocol.”  
+- “Use your AI model to generate predictions and share the results as a campaign case study.”
+
+These are more advanced tasks and often come with **higher-tier rewards** and **selection** by the project team.
+
+---
+
+## How to Join a Promotion
+
+1. **Open the Promotions section**  
+   Go to the **Promotions / Promo Campaigns** tab in the PromosPay app.
+
+2. **Select a campaign**  
+   - Review title, description, reward pool, and end date.  
+   - Check required actions and minimum conditions.
+
+3. **Read the rules**  
+   Each campaign has its own rules, including:
+   - supported platforms (X, Telegram, Discord, YouTube, etc.),  
+   - content format and language,  
+   - on-chain actions (predictions, boosts, subscriptions),  
+   - deadlines and geo/eligibility restrictions (if any).
+
+4. **Connect your wallet & profile**  
+   Make sure you are logged in with the wallet and account that will be used for:
+   - on-chain actions (predictions, tips, trades),  
+   - linking your social accounts (if required).
+
+5. **Complete tasks**  
+   Perform the requested actions:
+   - publish content,  
+   - place predictions,  
+   - invite users,  
+   - use AI models and streams.
+
+6. **Submit proof (if needed)**  
+   For off-chain tasks you may need to:
+   - paste links to posts, articles, or videos,  
+   - confirm your social accounts,  
+   - provide short description or notes.
+
+7. **Wait for moderation and rewards**  
+   Tasks are checked by **SCAI (AI moderation)** and/or the **PromosPay team / campaign owner**.  
+   If accepted, your reward is credited to your account according to the campaign rules.
+
+---
+
+## Proof & Verification
+
+To keep promotions fair and useful for companies, activities must be **verifiable**.
+
+### On-chain actions
+
+The following are usually tracked automatically:
+
+- placing predictions in specific markets,  
+- using boosts and tips,  
+- buying subscriptions or access tiers,  
+- using partner products on-chain via PromosPay.
+
+You just need to ensure you:
+
+- use the **correct wallet**, and  
+- interact with the **campaign-linked markets or contracts**.
+
+### Off-chain actions
+
+For social and content tasks you typically:
+
+- submit a **URL link** to the post, article, or video,  
+- ensure the content is **public and accessible**,  
+- follow all required tags, mentions, hashtags, and links.
+
+The AI and moderators can decline content that is:
+
+- low-effort or spam,  
+- irrelevant to the campaign,  
+- misleading or violating platform rules.
+
+In case of doubt, campaigns can request additional verification or manual review.
+
+---
+
+## Rewards and Payouts
+
+Campaigns can reward users in different ways, depending on the sponsor:
+
+- **Platform token** (e.g. PromosPay native token / PRO-type rewards),  
+- **Stablecoins** or other on-chain assets,  
+- **Boosts**, fee discounts, or subscription access,  
+- Additional **exposure** for your forecasts, streams, or AI models.
+
+Basic models:
+
+- **Fixed reward per completed task** – you receive a set amount for each approved activity.  
+- **Pool shared between participants** – total reward pool is split by contribution (e.g. views, clicks, quality score, number of valid referrals).  
+- **Tiered rewards** – top N participants receive bonus tiers.
+
+Your rewards and status are shown in:
+
+- the **campaign page**, and  
+- your **PromosPay profile / rewards section**.
+
+---
+
+## Quality, Fair Use & Rules
+
+To keep promotions effective for companies and fair for users, the following rules apply:
+
+- **No spam**: mass posting low-quality content or irrelevant comments may lead to rejection or banning from promotions.  
+- **Original content**: direct copy-paste from other users or AI spam without value can be rejected.  
+- **Correct tags & links**: if the required hashtags, mentions, or URLs are missing, the task may not be counted.  
+- **One user – one identity**: attempts to game campaigns through fake accounts, bots, or sybil patterns can result in loss of rewards and restriction from future campaigns.  
+- **Respect local law and platform policies**: your content must comply with legal requirements and social network rules.
+
+PromosPay and campaign owners reserve the right to:
+
+- reject fraudulent or manipulative activity,  
+- change or adjust rules for active campaigns when abuse is detected,  
+- pause or cancel a campaign if needed for security or compliance reasons.
+
+---
+
+## Tips to Maximize Your Promo Rewards
+
+- Choose campaigns aligned with your **interests** (crypto, DeFi, trading, AI, etc.) – your content will be more natural and engaging.  
+- Combine **on-chain activity** (predictions, boosts, subscriptions) with **off-chain content** to earn from both sides.  
+- Use your **AI presenters and models** to create more unique and memorable promo content.  
+- Focus on **quality over quantity** – high-quality posts and articles have a higher chance to be approved and featured.  
+- Track deadlines – campaigns have **end dates**; tasks after that point will not be counted.
+
+---
+
+_Last updated: {{update date here}}_
   `,
-  'stake/fees-bonuses': `
+
+
+'prolab/сreating models and predictions': `
+# Creating Models and Predictions (ProLab)
+
+**ProLab** is PromosPay’s builder for creating:
+
+- **AI host models** (AI presenters),
+- **prediction templates** (forecast and market templates),
+
+which are then used in streams, promo campaigns, and YES/NO prediction trading.
+
+> Important: ProLab is being rolled out in stages.  
+> This documentation describes the intended behavior and may differ from early production versions.
+
+---
+
+## What You Can Build in ProLab
+
+Within ProLab, users and companies will be able to create two core types of entities:
+
+### 1. AI Host Models (ScAi Presenters)
+
+An AI host model is an AI presenter that acts as a digital analyst / host:
+
+- runs **AI streams** and market podcasts,
+- comments on **crypto, stocks, and macro events**,
+- explains **predictions and risk profiles**,
+- can be used in **partner promo campaigns**.
+
+Core parameters of an AI host:
+
+- **Persona & Style** – communication tone (analyst, day trader, macro commentator, meme host, etc.).  
+- **Market Focus** – what the host focuses on: crypto, DeFi, stocks, RWAs, politics, sports, etc.  
+- **Data Sources** – what signals and models are taken into account (SCAI signals, user forecasts, on-chain data, etc.).  
+- **Use Cases**:
+  - host of a live or recorded stream,
+  - voice/text commentator for prediction markets,
+  - brand or campaign face in promos.
+
+Over time, AI hosts will be connectable to:
+
+- **Streams & Podcasts**,  
+- **prediction markets**,  
+- **promo promotions** (see *Activity in Promotions*).
+
+---
+
+### 2. Prediction Templates
+
+Prediction templates are blueprints for future markets and forecasts. They:
+
+- define the **structure of the question** (YES/NO or other binary formats),
+- specify **resolution conditions** (date, data source / oracle),
+- describe **metrics and context** for AI hosts and users,
+- are used when launching new promo markets and campaigns.
+
+Example templates:
+
+- *“Will BTC close above X on date Y?”*  
+- *“Will total TVL of protocol Z exceed N by the end of the quarter?”*  
+- *“Will candidate A win the election in region B?”*
+
+Templates make it possible to:
+
+- quickly spin up standard markets,
+- reuse question structures across multiple campaigns,
+- link user forecasts directly to AI analysis.
+
+---
+
+## Basic Flow: Creating an AI Host Model
+
+Planned basic flow in ProLab:
+
+1. **Open ProLab**  
+   Go to **ProLab / Models** inside the PromosPay platform.
+
+2. **Select a base persona**  
+   Choose the host type:
+   - Crypto / DeFi analyst,  
+   - Macro & rates commentator,  
+   - Meme / community host,  
+   - Sports & events commentator,  
+   - custom brand persona.
+
+3. **Configure behaviour**  
+   Configure:
+   - target markets and event categories,  
+   - risk profile (conservative vs. aggressive style),  
+   - priority of data sources (AI signals, on-chain data, user forecasts).
+
+4. **Attach to use cases**  
+   Link the model to:
+   - streams (AI Streams),  
+   - prediction markets,  
+   - promo campaigns (for example: “our AI host leads this partner campaign”).
+
+5. **Save & (optionally) submit for review**  
+   Some public models or branded AI hosts may require moderation before they become available to other users or campaigns.
+
+---
+
+## Basic Flow: Creating Prediction Templates
+
+The second part of ProLab is the prediction / market template builder:
+
+1. **Open ProLab / Predictions**  
+   Navigate to **ProLab / Predictions & Markets**.
+
+2. **Define the question**  
+   Formulate a binary question in a structured format, for example:
+   - *“Will BTC close above 80,000 USDT on {{date}}?”*  
+   - *“Will protocol TVL reach {{value}} by {{date}}?”*
+
+3. **Choose market type**  
+   Specify the market configuration:
+   - **YES/NO prediction market** (standard binary),  
+   - event category (crypto, macro, sports, politics, etc.),  
+   - settlement asset (for example, USDC on an EVM chain).
+
+4. **Set resolution rules**  
+   Configure:
+   - **resolution time** (date and time of the event),  
+   - data source for the result:
+     - **Chainlink oracle** (where available), or  
+     - **PromosPay team resolution** according to documented rules.
+
+5. **Attach AI models (optional)**  
+   Choose which AI hosts and models:
+   - will comment on this market,  
+   - will provide probability hints,  
+   - will use it in their streams and promo campaigns.
+
+6. **Save & use in products**  
+   A saved template can be:
+   - used to create a **live trading market** in [Trade Predictions](/trade predictions/trading-basics),  
+   - attached to a **promo campaign** (for example: “make a prediction on this market and earn rewards”),  
+   - used to **train AI models** via user activity and forecast performance.
+
+---
+
+## Moderation and Access Levels
+
+Some ProLab actions may require moderation, especially:
+
+- public AI hosts available to other users,  
+- branded models linked to companies,  
+- market templates that may become public trading markets.
+
+Planned access levels:
+
+- **Private** – only for the owner / team.  
+- **Shared** – available to a limited group or campaign.  
+- **Public** – available to all PromosPay users (after moderation).
+
+---
+
+## Current Status
+
+In the early ProLab rollout:
+
+- parts of the functionality may be **limited** or invite-only,  
+- creation of markets from templates may initially go **through the PromosPay team** (by request),  
+- the visual builder for AI hosts and models will evolve over time.
+
+The actual feature set and instructions will be updated as new releases go live.
+
+---
+
+_Last updated: {{update date here}}_
+
+For trading details, see:
+
+- [Trading Basics](/trade predictions/trading-basics)  
+- [Settlement, Lock & Fees](/trade predictions/settlement-and-fees)
+  `,
+
+
+
+'prpay/how-to-work': `
+# How PrPay Works
+
+**PrPay** is PromosPay’s payment, swap and on-ramp module for the platform’s utility token **PRO**.
+
+With PrPay you can:
+
+- swap stablecoins into the **PRO** token,
+- use PRO for subscriptions, boosts, tips and rewards,
+- stake or provide liquidity to earn a share of platform fees,
+- buy crypto via third-party on-ramp partners (e.g. MoonPay, Binance Pay, etc.).
+
+---
+
+## Supported Assets and Networks
+
+PrPay currently supports stablecoins on EVM networks:
+
+- **Ethereum / EVM chains**: USDT, USDC, USDE, USD1  
+- **BNB Chain**: selected stablecoin pairs (e.g. USDT, USDC equivalents on BNB)
+
+Stablecoins are swapped into the platform token **PRO**, which is used inside the PromosPay ecosystem.
+
+---
+
+## Swapping Stablecoins to PRO
+
+You can convert supported stablecoins into **PRO** in a few steps:
+
+1. **Open PrPay**
+   - Go to the **PrPay** section in the PromosPay dashboard.
+
+2. **Choose Swap**
+   - Select **Swap to PRO** and choose the input asset (USDT, USDC, USDE, USD1, etc.).
+   - Make sure you are on a supported network (Ethereum / BNB).
+
+3. **Connect your wallet**
+   - Connect via WalletConnect or other supported wallet providers  
+     (for example: [Connect Mobile via QR](/onboarding/connect-mobile-qr)).
+
+4. **Enter the amount**
+   - Specify how much stablecoin you want to swap into PRO.
+   - The interface will display:
+     - estimated **PRO amount**,
+     - **rate** and **fee**,
+     - required **network gas**.
+
+5. **Confirm the transaction**
+   - Approve the token (if required) and confirm the swap in your wallet.
+   - After confirmation, you receive **PRO** tokens in your wallet or platform balance.
+
+---
+
+## Using PRO in the Ecosystem
+
+The **PRO** token is the core utility token of PromosPay. It can be used for:
+
+- **Subscriptions and premium features**
+  - Pay for access to AI models, advanced analytics, or premium prediction tools.
+
+- **Tips and Boosts**
+  - Tip AI hosts or creators.
+  - Boost your predictions, promo campaigns, or content visibility.
+
+- **Rewards and payouts**
+  - Receive **rewards** in PRO for platform activity, campaigns, and partner promotions.
+
+- **Burning and other mechanics**
+  - Part of fees or platform flows may be used for **burning** PRO or other tokenomic actions (subject to protocol design and updates).
+
+The exact mechanics can differ between product releases and campaigns, but PRO remains the main internal currency.
+
+---
+
+## Staking and Providing Liquidity
+
+PrPay also allows users to participate in the platform’s liquidity and fee streams:
+
+### 1. Staking PRO
+
+You will be able to:
+
+- **Stake PRO** to earn a share of:
+  - trading fees from prediction markets,
+  - payment / routing fees in PrPay,
+  - other protocol-level rewards (where applicable).
+
+Key points (planned behavior):
+
+- You lock PRO for a period or in a staking pool.
+- You receive **periodic rewards** in PRO or supported assets.
+- APY is **variable** and depends on:
+  - platform volume,
+  - fees collected,
+  - reward allocation for the current epoch.
+
+### 2. Providing Liquidity
+
+Advanced users can:
+
+- Provide **liquidity** to pools used by PrPay and/or prediction markets.
+- Earn a share of:
+  - swap fees,
+  - trading fees,
+  - partner campaign incentives (if enabled).
+
+> Note: Staking and LP products may have different risk profiles and lockups.  
+> Always review the pool parameters and risks before committing capital.
+
+---
+
+## Buying Crypto via On-Ramp Partners
+
+If you do not yet hold stablecoins, you can buy them directly through integrated **on-ramp providers**, such as:
+
+- MoonPay,
+- Binance Pay,
+- and other supported partners (where available).
+
+Typical flow:
+
+1. Open **PrPay → Buy Crypto / On-Ramp**.
+2. Select:
+   - region / country,
+   - fiat currency (e.g. USD, EUR),
+   - target asset (USDT, USDC, etc. on Ethereum or BNB).
+3. Choose your preferred **provider** (MoonPay, Binance Pay, etc.).
+4. Complete KYC / payment on the provider’s side.
+5. Receive the purchased stablecoins to your wallet.
+6. Optionally, use **Swap to PRO** to convert part of this balance into the PRO token.
+
+On-ramp terms (fees, limits, KYC) are defined by the external provider and may vary by region.
+
+---
+
+## Benefits of Using PrPay
+
+- **Unified entry point**  
+  Swap stablecoins, get PRO, stake, and provide liquidity from one interface.
+
+- **Deep ecosystem integration**  
+  PRO is directly tied to subscriptions, boosts, tips, rewards and tokenomics of PromosPay.
+
+- **Flexible earning options**  
+  Use staking and liquidity provision for passive income from platform activity.
+
+- **Multiple payment paths**  
+  Use both on-chain swaps and off-ramp/on-ramp partners to move between fiat and crypto.
+
+---
+
+For details on costs and incentives, see  
+[Fees and Bonuses](/prpay/fees-bonuses).
+
+---
+`,
+
+  'prpay/fees-bonuses': `
 # Fees and Bonuses
 
-PRPay offers competitive fees and exclusive bonuses for crypto purchases and swaps on PromosPay.
+PrPay offers transparent fees and protocol-driven incentives for swaps, staking and liquidity operations around the **PRO** token.
 
-### Fee Structure
-- **Crypto Purchases**: 0.5–2% depending on payment method (credit card, bank transfer).
-- **Crypto Swaps**: 0.1–0.5% per transaction.
-- **No Hidden Fees**: Transparent pricing displayed before confirmation.
+Fee levels and rewards may vary by network, pool, and campaign, but are always displayed in the interface before confirmation.
 
-### Bonuses
-- **Crypto Miles Discount**: Redeem Miles to reduce fees by up to 50% ([Redeeming Crypto Miles](/crypto-miles/redeeming)).
-- **Referral Bonus**: Invite friends to earn fee-free transactions ([Sharing Referral](/referrals/sharing-referral)).
-- **High-Volume Bonus**: Reduced fees for users with high trading volume.
+---
 
-### Tips for Saving
-- Use Crypto Miles to lower fees.
-- Trade during promotional periods for additional bonuses.
-- Monitor the PRPay dashboard for new offers.
+## Fee Structure
 
-For more details, see [How to Buy](/prpay/how-to-buy).
-  `,
-  'referrals/sharing-referral': `
-# Sharing Referral
+### 1. Swaps to PRO
 
-PromosPay's referral program allows users to earn Crypto Miles by inviting friends to the platform.
+- **Stablecoin → PRO swaps**
+  - A small percentage fee is charged on each swap (for example, in a range similar to 0.1–0.5% depending on pool and network conditions).
+  - Exact fee and effective rate are shown in the **PrPay** panel before you confirm the transaction.
+- **Network gas**
+  - You also pay the underlying network gas fee (Ethereum, BNB, etc.) required to process the transaction.
 
-### How to Share Your Referral Code
-1. Navigate to the **Referrals** section on the PromosPay dashboard.
-2. Copy your unique referral code or link.
-3. Share it via email, social media, or messaging apps (e.g., Telegram, Twitter).
+### 2. Staking and Liquidity
 
-### Benefits
-- **Earn Miles**: Receive 5–10% of referred users' Crypto Miles earnings.
-- **Bonus Rewards**: Unlock additional Miles for reaching referral milestones (e.g., 10 invited users).
-- **Community Growth**: Build a network of active traders and forecast creators.
+- **Staking PRO**
+  - Usually no direct “entry fee” for staking, but:
+    - rewards depend on protocol parameters,
+    - early withdrawal (if applicable) may incur penalties or reduced rewards (as specified per pool).
 
-### Tips for Success
-- Share your code in crypto and trading communities.
-- Use SCAI analytics to attract users with accurate predictions ([Using AI SCAI](/onboarding/using-ai-scai)).
-- Track your referrals in the dashboard.
+- **Providing Liquidity**
+  - No fee to deposit liquidity (unless configured otherwise in a specific campaign),
+  - You earn a share of **swap and/or trading fees** generated by the pool,
+  - Impermanent loss and other market risks may apply.
 
-For more details, see [Using Referral](/referrals/using-referral).
-  `,
+### 3. On-Ramp / Off-Ramp
+
+- On-ramp partners (e.g. MoonPay, Binance Pay, etc.) have **their own fee structure**:
+  - card payment fees,
+  - FX spreads,
+  - minimums/maximums.
+- These fees are shown on the provider’s side before you confirm the purchase.
+
+PrPay itself focuses on **on-chain fees and protocol-level charges**, which are visible in the app.
+
+---
+
+## Bonuses and Incentives
+
+The legacy **Crypto Miles** program has been replaced by the **PRO token–based** incentive system.
+
+Current and planned bonus mechanisms include:
+
+### 1. PRO-Based Rewards
+
+- Earn **PRO** for:
+  - participating in promo campaigns,
+  - trading in selected prediction markets,
+  - completing activity tasks (see *Activity in Promotions*),
+  - contributing to the ecosystem (e.g. forecasts, content, referrals where applicable).
+
+Rewards can be distributed:
+- directly in **PRO**, or  
+- via boosted APY in staking / LP pools.
+
+### 2. Volume and Loyalty Tiers
+
+PrPay and PromosPay can introduce **fee discounts** or **boosted rewards** for:
+
+- high-volume users (based on swap/trading volume),
+- long-term stakers or liquidity providers,
+- power users of AI models and prediction markets.
+
+Examples (for illustration; actual tiers will be defined in product updates):
+
+- lower swap fee for users who hold or stake a minimum amount of PRO,
+- extra reward multipliers for specific campaigns or epochs.
+
+### 3. Partner and Promo Campaigns
+
+In cooperation with partners and sponsors, some pools and campaigns may offer:
+
+- additional **PRO rewards**,
+- reduced protocol fees for specific markets or time periods,
+- one-time bonuses for first-time users or specific geographies.
+
+All such promotions will be clearly marked in the interface and/or campaign description.
+
+---
+
+## Tips for Reducing Costs and Maximizing Rewards
+
+- **Check fees before confirming**  
+  Always review the swap and network fee line in the PrPay panel.
+
+- **Use PRO strategically**  
+  Holding and/or staking PRO during campaigns can unlock fee discounts or increased rewards where available.
+
+- **Monitor promo campaigns**  
+  Follow PromosPay announcements and the **Activity / Promotions** sections to:
+  - join tasks that pay in PRO,
+  - gain multipliers for your current usage.
+
+- **Leverage on-chain timing**  
+  Executing larger on-chain transactions when gas fees are lower can significantly reduce total costs.
+
+---
+
+For more details on workflow, see:
+
+- [How PrPay Works](/prpay/how-to-work)  
+- [Trading Basics](/trade predictions/trading-basics)
+
+---
+`,
+
   'referrals/using-referral': `
-# Using Referral
+# Using the Referral Program
 
-Join PromosPay with a referral code to earn bonus Crypto Miles and enhance your platform experience.
+Join PromosPay using a referral code to earn bonus rewards and enhance your platform experience.
 
-### How to Use a Referral Code
-1. Visit [PromosPay.ai](https://promospay.ai) and click "Get Started."
-2. During signup, enter the referral code in the provided field.
-3. Connect your wallet and complete onboarding ([Getting Started](/onboarding/getting-started)).
-4. Receive bonus Crypto Miles after your first platform activity (e.g., forecast or trade).
+### How to use a referral code
+1. Go to the [PromosPay.ai](https://promospay.ai) website and click "Get Started."
+
+2. When registering, enter the referral code in the appropriate field.
+
+3. Connect your wallet and complete registration ([Getting Started](/onboarding/getting-started)).
+
+4. Start using platform features (e.g., AI analysis or trades).
 
 ### Benefits
-- **Bonus Miles**: Earn 50–100 Miles for using a valid referral code.
-- **Community Access**: Join a network of traders and forecast creators.
-- **Enhanced Earnings**: Combine referral bonuses with other rewards ([Earning Crypto Miles](/crypto-miles/earning)).
+- **Bonus**: Earn platform tokens for using a valid referral code.
+
+- **Community Access**: Join a network of traders and AI creators.
+
+- **Increased Bonuses**: Combine referral bonuses with other rewards (Earnings Pro).
 
 ### Tips for Success
 - Ask friends or community members for their referral codes.
-- Redeem Miles for discounts or premium features ([Redeeming Crypto Miles](/crypto-miles/redeeming)).
-- Share your own code after signup ([Sharing Referral](/referrals/sharing-referral)).
+
+- Exchange PRO for discounts or premium features .
+
+- Share your code after registration ([Share Referral Link](/referrals/sharing-referral)).
 
 For more details, see [Getting Started](/onboarding/getting-started).
   `,
@@ -509,9 +1419,9 @@ PromosPay provides a robust API for developers to integrate SCAI analytics, mark
 
 ### API Features
 - **Market Data**: Access real-time prices, volumes, and trends for crypto, stocks, and RWA.
-- **SCAI Predictions**: Retrieve AI-driven forecasts and neuron metrics.
+- **SCAI Predictions**: Retrieve AI-driven predictions and neuron metrics.
 - **Trading**: Execute trades or swaps via PRPay endpoints.
-- **Forecasts**: Submit and retrieve user forecasts from Promoplace.
+- **Prediction**: Submit and retrieve user predictions  from Promospay
 
 ### Requirements
 - Valid PromosPay account with wallet connection.
@@ -536,7 +1446,7 @@ The PromosPay API allows developers to build custom applications using the platf
 
 ### Endpoints
 - **GET /market/data**: Retrieve real-time market data for specified assets.
-- **POST /forecasts**: Submit user forecasts to Promoplace.
+- **POST /forecasts**: Submit user predictions to PromosPay
 - **GET /scai/predictions**: Access SCAI predictions for trading.
 - **POST /trade**: Execute trades via PRPay.
 

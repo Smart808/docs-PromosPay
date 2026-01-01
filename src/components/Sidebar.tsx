@@ -40,36 +40,77 @@ const sidebarItems = [
     ],
   },
   {
-    key: 'promoplace',
-    label: 'Promoplace',
+    key: 'market',
+    label: 'Market',
     children: [
-      { key: 'overview', label: <Link to="/promoplace/overview">Overview</Link> },
-      { key: 'earning', label: <Link to="/promoplace/earning">Earning</Link> },
-      { key: 'training-ai', label: <Link to="/promoplace/training-ai">Training AI</Link> },
+      { key: 'overview', label: <Link to="/market/overview">Overview</Link> },
+      { key: 'earning', label: <Link to="/market/earning">Earning</Link> },
+      { key: 'training-ai', label: <Link to="/market/training-ai">Training AI</Link> },
     ],
   },
   {
-    key: 'trade-ai',
-    label: 'Trade AI',
+  key: 'trade predictions',
+  label: 'Trade Predictions',
+  children: [
+    {
+      key: 'trading-basics',
+      label: (
+        <Link to="/trade predictions/trading-basics">
+          Trading Basics
+        </Link>
+      ),
+    },
+    {
+      key: 'order-types',
+      label: (
+        <Link to="/trade predictions/order-types">
+          Order Types & Execution
+        </Link>
+      ),
+    },
+    {
+      key: 'settlement-and-fees',
+      label: (
+        <Link to="/trade predictions/settlement-and-fees">
+          Settlement, Lock & Fees
+        </Link>
+      ),
+    },
+  ],
+},
+
+{
+    key: 'promo',
+    label: 'Promo',
     children: [
-      { key: 'neurons-metrics', label: <Link to="/trade-ai/neurons-metrics">Neurons Metrics</Link> },
-      { key: 'ai-scanner', label: <Link to="/trade-ai/ai-scanner">AI Scanner</Link> },
-      { key: 'trading-assets', label: <Link to="/trade-ai/trading-assets">Trading Assets</Link> },
+      { key: 'activity in promotions', label: <Link to="/promo/activity in promotions">Activity in promotions</Link> },
+      
     ],
   },
-  {
-    key: 'stake',
-    label: 'Stake',
+
+
+{
+    key: 'prolab',
+    label: 'ProLab',
     children: [
-      { key: 'how-to-buy', label: <Link to="/stake/how-to-buy">How to Stake</Link> },
-      { key: 'fees-bonuses', label: <Link to="/stake/fees-bonuses">Fees Bonuses</Link> },
+      { key: 'сreating models and predictions', label: <Link to="/prolab/сreating models and predictions">Creating models and predictions</Link> },
+      
+    ],
+  },
+
+  {
+    key: 'prpay',
+    label: 'PrPay',
+    children: [
+      { key: 'how-to-work', label: <Link to="/prpay/how-to-work">How to Work</Link> },
+      { key: 'fees-bonuses', label: <Link to="/prpay/fees-bonuses">Fees Bonuses</Link> },
     ],
   },
   {
     key: 'referrals',
     label: 'Referrals',
     children: [
-      { key: 'sharing-referral', label: <Link to="/referrals/sharing-referral">Sharing Referral</Link> },
+     
       { key: 'using-referral', label: <Link to="/referrals/using-referral">Using Referral</Link> },
     ],
   },
